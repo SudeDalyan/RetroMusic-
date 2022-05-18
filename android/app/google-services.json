@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "772222418754",
+    "project_id": "retrostudios-5fbf2",
+    "storage_bucket": "retrostudios-5fbf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772222418754:android:cc72a469abfd50450852db",
+        "android_client_info": {
+          "package_name": "com.example.retrostudios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772222418754-3nhm8t4fr5lfio33499cebmh66jq4lc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdF5OuhdaCh9nj2ZyJnYD_pRTgjg7Em2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772222418754-3nhm8t4fr5lfio33499cebmh66jq4lc4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
